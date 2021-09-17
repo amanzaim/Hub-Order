@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150221136362",
+    "project_id": "huborder-3319c",
+    "storage_bucket": "huborder-3319c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150221136362:android:ce229464dff894838c1293",
+        "android_client_info": {
+          "package_name": "com.example.huborder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150221136362-eevp9582vt2s1fu57vr214p6tn8ujt43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.huborder",
+            "certificate_hash": "2f77bc5116ee45a45df5852c8ac0be3520a104f8"
+          }
+        },
+        {
+          "client_id": "150221136362-5d9q6tmm3s8c9g97s7do0v5erpkh91jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUykLXBGJheD8H3Np2nYMgfOjBHMWaQ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150221136362-5d9q6tmm3s8c9g97s7do0v5erpkh91jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
